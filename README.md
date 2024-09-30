@@ -12,7 +12,7 @@
 		</tr>
 		<tr>
 		          <td width="500">NAMA</td>
-				  <td width="600">TULIS DI SINI</td>
+				  <td width="600">RINANDA PUTRATAMA</td>
 				  <td width="200"rowspan="8"><img src="FOTO.JPG" width="250" </td>
 		</tr>  
 		<tr>
